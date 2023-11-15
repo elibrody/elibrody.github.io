@@ -47,12 +47,36 @@ projects:
   # youtube: your_username
 
 topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
-
-  - name: Web design
 
   - name: Sass
     web_url: https://github.com/topics/sass
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+
+  - name: kubernetes
+    web_url: https://github.com/topics/kubernetes
+    image_url: https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/kubernetes/kubernetes.png
+  
+  - name: Linux
+    web_url: https://github.com/topics/linux
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png
+
+  - name: Serverless
+    web_url: https://github.com/topics/serverless
+
+  - name: Ansible
+    web_url: https://github.com/topics/ansible
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png
+
+  - name: Home Assistant
+    web_url: https://github.com/topics/home-assistant
+    image_url: https://raw.githubusercontent.com/github/explore/1c6590bcecae757172108275aedd0b75680d8f1a/topics/home-assistant/home-assistant.png
+    
+  - name: Powershell
+    web_url: https://github.com/topics/powershell
+    image_url: https://raw.githubusercontent.com/github/explore/e1468f075e054153c15d9cf37d9e97bece610326/topics/powershell/powershell.png
+
+  - name: Serverless
+    web_url: https://github.com/topics/serverless
+
+  - name: Homelab
+    web_url: https://github.com/topics/homelab
